@@ -1,2 +1,2 @@
-# Swagger1
+# Swagger
 This repo includes sample projects for demo of swagger

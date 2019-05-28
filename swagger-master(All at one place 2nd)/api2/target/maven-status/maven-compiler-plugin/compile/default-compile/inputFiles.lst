@@ -1,0 +1,13 @@
+D:\demoprojects\api\src\main\java\io\swagger\model\Student.java
+D:\demoprojects\api\src\main\java\io\swagger\configuration\CustomInstantDeserializer.java
+D:\demoprojects\api\src\main\java\io\swagger\api\NotFoundException.java
+D:\demoprojects\api\src\main\java\io\swagger\api\StudentApi.java
+D:\demoprojects\api\src\main\java\io\swagger\api\ApiResponseMessage.java
+D:\demoprojects\api\src\main\java\io\swagger\api\StudentApiController.java
+D:\demoprojects\api\src\main\java\io\swagger\api\ApiOriginFilter.java
+D:\demoprojects\api\src\main\java\io\swagger\api\ApiException.java
+D:\demoprojects\api\src\main\java\io\swagger\RFC3339DateFormat.java
+D:\demoprojects\api\src\main\java\io\swagger\configuration\JacksonConfiguration.java
+D:\demoprojects\api\src\main\java\io\swagger\configuration\HomeController.java
+D:\demoprojects\api\src\main\java\io\swagger\Swagger2SpringBoot.java
+D:\demoprojects\api\src\main\java\io\swagger\configuration\SwaggerDocumentationConfig.java

@@ -1,0 +1,29 @@
+---
+info:
+  component: Default Single Swagger Document Server for MicroService
+
+spring:
+  profiles: default
+
+server:
+  port: 8014
+
+documentation: 
+  baseurl: http://localhost
+  swagger: 
+    services:   
+      - 
+        name: Service1
+        url: ${documentation.baseurl}:8081/v2/api-docs
+        version: 2.0
+      - 
+        name: Service2
+        url: ${documentation.baseurl}:8082/v2/api-docs
+        version: 2.0
+      - 
+        name: Service3
+        url: ${documentation.baseurl}:8083/v2/api-docs
+        version: 2.0
+
+ 
+    
